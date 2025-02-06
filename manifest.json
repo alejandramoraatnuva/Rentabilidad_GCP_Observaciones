@@ -1,0 +1,10 @@
+{
+  "visualizations": [
+    {
+      "id": "comment-widget",
+      "label": "Widget de Comentarios",
+      "script": "https://TU_GITHUB_URL/comment-widget.js",
+      "style": "https://TU_GITHUB_URL/style.css"
+    }
+  ]
+}
